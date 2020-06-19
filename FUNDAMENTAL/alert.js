@@ -1,0 +1,1 @@
+alert("this test external script loading")
